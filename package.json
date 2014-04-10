@@ -1,0 +1,24 @@
+{
+  "name": "tokenizejs",
+  "version": "0.0.0",
+  "description": "Naive regex based sentence tokenization for JS. For more accurate sentence tokenization using a Bayesian model see TactfulTokenizer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zencephalon/tokenizejs.git"
+  },
+  "keywords": [
+    "sentence",
+    "tokenization",
+    "tokenization",
+    "sentences"
+  ],
+  "author": "Matthew Bunday (http://zencephalon.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zencephalon/tokenizejs/issues"
+  }
+}
